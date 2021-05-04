@@ -1,4 +1,4 @@
-#madlib.py
+#Madlib.py
 adjective=input("please enter an adjective:")
 noun=input("please enter a noun:")
 verb=input ("please enter a verb ending -ed:")
