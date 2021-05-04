@@ -1,4 +1,4 @@
-#pizza.py
+#Pizza.py
 number_of_pizzas = eval(input( "how many pizzas do u want?") )
 cost_per_pizza = eval(input("how much does each cost from the menu?"))
 subtotal= number_of_pizzas * cost_per_pizza
