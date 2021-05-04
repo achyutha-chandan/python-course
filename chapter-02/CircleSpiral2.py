@@ -1,4 +1,4 @@
-#circlespiral2.py
+#CircleSpiral2.py
 import turtle
 t=turtle.Pen()
 t.speed(0)
