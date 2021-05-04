@@ -1,4 +1,4 @@
-#squarespiral2.py
+#SquareSpiral2.py
 import turtle
 t=turtle.Pen()
 t.speed(0)
